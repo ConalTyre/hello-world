@@ -1,2 +1,3 @@
 # hello-world
-Tutorial on using GitHub
+Github Practice
+My name is Conal
